@@ -50,7 +50,9 @@ body{
 .homesection h1 {
     font-size: 2em;
     margin: 10px 0;
-    color: white;
+    color: rgb(128, 22, 143);
+    font-weight: bold;
+    font-size: 100px;
 }
 
 .homesection p {
@@ -63,7 +65,7 @@ body{
 .homesection button {
     border-radius: 10%;
     color: aliceblue;
-    background-color: black;
+    background-color: rgb(117, 22, 148);
     padding: 10px 20px;
     margin: 5px;
 }
