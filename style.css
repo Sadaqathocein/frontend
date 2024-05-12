@@ -35,7 +35,7 @@ body{
     align-items: center;
     flex-direction: column;
     text-align: center;
-    margin-top: 23%;
+    margin-top: 20%;
 }
 
 .homesection img {
@@ -48,12 +48,20 @@ body{
 }
 
 .homesection h1 {
-    font-size: 2em;
     margin: 10px 0;
     color: rgb(128, 22, 143);
     font-weight: bold;
     font-size: 100px;
-    
+}
+
+
+.homesection h3 {
+    font-size: 4em;
+    margin: 10px 0;
+    color: white;
+    font-weight: 2000;
+    font-weight: bold;
+    font-family: sans-serif;
 }
 
 .homesection p {
