@@ -69,13 +69,13 @@ body{
     background-color: rgb(117, 22, 148);
     padding: 10px 20px;
     margin: 5px;
-    border: 4px solid white;
+    border: 1px solid white;
     font-size: 20px ;
 }
 .homesection button:hover{
     background-color: white;
     color: rgb(117, 22, 148);
-    border: 4px solid rgb(117, 22, 148);
+    border: 1px solid rgb(117, 22, 148);
 
 }
 /* Media query for smaller screens */
