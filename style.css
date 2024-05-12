@@ -53,6 +53,7 @@ body{
     color: rgb(128, 22, 143);
     font-weight: bold;
     font-size: 100px;
+    
 }
 
 .homesection p {
@@ -69,7 +70,10 @@ body{
     padding: 10px 20px;
     margin: 5px;
 }
-
+.homesection button:hover{
+    background-color: white;
+    color: rgb(117, 22, 148);;
+}
 /* Media query for smaller screens */
 @media screen and (max-width: 768px) {
     .homesection {
